@@ -21,10 +21,10 @@ const PARTNER_A = {
 
 // PARTNER B TASK: Replace only the values in this object with Partner B's details.
 const PARTNER_B = {
-  name: "Partner B",
-  major: "Your major",
-  favoriteTech: "JavaScript",
-  initials: "B",
+  name: "Alejandro V.",
+  major: "COMP (Computer Science)",
+  favoriteTech: "Golang",
+  initials: "AV",
 };
 
 // PARTNER A TASK: Add one skill that Partner A wants the team to practice.
